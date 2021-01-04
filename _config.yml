@@ -75,16 +75,20 @@
 # theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-skin: "/assets/css/skins/default.css"
+
+# skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/light.css"
+# skin: "/assets/css/skins/dark.css"
+
 locale: en-US
 title: "Diavoletto76"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
-date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
+url: "https://diavoletto76.github.io"
+logo: "/images/logo.png"
+date_format: "%Y-%m-%d"
+read_time: true
+words_per_minute: 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
@@ -154,10 +158,10 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name: Diavoletto76
+  picture: /images/logo.png
+  email: diavoletto76@gmail.com
+  twitter: diavoletto76
   links:
     - title:
       url:
