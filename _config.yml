@@ -82,7 +82,7 @@ skin: "/assets/css/skins/light.css"
 
 locale: en-US
 title: "Diavoletto76"
-description: "It really is the best."
+description: "My second life... as a geek developer"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://diavoletto76.github.io"
 logo: "/images/logo.png"
