@@ -3,10 +3,7 @@ title:  "First before second"
 categories: programming
 tags: clojure challenge
 ---
-Clojure weekly challenge by Eric Normand.
-
-## Problem
-
+*Clojure weekly challenge by Eric Normand*  
 Write a function that takes a string and two letters. The function should return true if every instance of the first letter comes before every instance of the second letter.
 
 Notes:

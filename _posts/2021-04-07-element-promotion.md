@@ -3,10 +3,8 @@ title:  "Element promotion"
 categories: programming
 tags: clojure challenge
 ---
-Clojure weekly challenge by Eric Normand.
 
-## Problem
-
+*Clojure weekly challenge by Eric Normand*  
 Sometimes you have a list and you want to "promote" one element toward the front of the list. Essentially, you need to swap the element with its immediate predecessor (if it exists). Write a function promote that takes a predicate and a list. If the predicate is true, the element should be promoted.
 
 ## Examples
