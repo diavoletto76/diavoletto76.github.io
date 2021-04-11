@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Learning computer science the hard way
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm missing the good old days when I used to be a web developer. In my spare time, I keep fit studying programming languages (mostly *functional* ones) and new tools. I love [Clojure](https://clojure.org) and [Haskell](https://www.haskell.org). I like experimenting with different technologies such as:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- [R](https://www.r-project.org)
+- [Python](https://www.python.org)
+- [ClojureScript](https://clojurescript.org)
+- [LaTex](https://www.latex-project.org)
+- [Pandoc](https://pandoc.org)
+- HTML
+- CSS
 
+My preferred learning platform is [Codewars](https://www.codewars.com/): it's full of exercises in different programming languages.
 
-[jekyll-organization]: https://github.com/jekyll
+![Diavoletto76 @Codewars](https://www.codewars.com/users/diavoletto76/badges/large)
